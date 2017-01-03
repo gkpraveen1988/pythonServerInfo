@@ -1,3 +1,5 @@
+# Purpose: Python scripts to fetch the remote server information (Domain name, Mac address of the nic cards, Number of disks)
+
 import os,sys,argparse
 macList = ''
 # Function for passing the correct option and get the option values
